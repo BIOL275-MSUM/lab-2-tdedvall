@@ -42,7 +42,7 @@ sem <- sd(x) / sqrt(n)
 sem
 
 ```
-And finally, I can see the 95% confidence interval ranges from a minimum of ___ to a maximum of ___
+And finally, I can see the 95% confidence interval ranges from a minimum of 4.203409 to a maximum of 5.430591
 
 ```{r mean}
 mean(x) + 1.96 * sem 

@@ -60,7 +60,7 @@ sem
     ## [1] 0.3130568
 
 And finally, I can see the 95% confidence interval ranges from a minimum
-of \_\_\_ to a maximum of \_\_\_
+of 4.203409 to a maximum of 5.430591
 
 ``` r
 mean(x) + 1.96 * sem 
